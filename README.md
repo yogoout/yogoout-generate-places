@@ -1,0 +1,1 @@
+# yogoout-generate-places
